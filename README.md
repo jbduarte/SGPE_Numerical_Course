@@ -1,1 +1,1 @@
-# Introduction to Programming for Economits
+# Introduction to Programming for Economists
