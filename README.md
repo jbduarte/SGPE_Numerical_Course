@@ -1,1 +1,1 @@
-# intro-to-prog
+# Introduction to Programming for Economits
