@@ -5,3 +5,7 @@ This course is designed for students interested in learning how to apply numeric
 ## Useful Cheat Sheets of Matlab vs. Python vs. Julia Link
 
 https://cheatsheets.quantecon.org/index.html
+
+## Speeding Up Python with Numba Intro Link
+
+https://notes.quantecon.org/submission/5b2d5ea1b9eab00015b89f76
