@@ -1,4 +1,4 @@
-# SPGE Numerical Course
+# SGPE Numerical Course
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbduarte/SPGE_Numerical_Course/master)
 
